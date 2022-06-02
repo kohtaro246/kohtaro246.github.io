@@ -4,16 +4,16 @@ main:
 #    url: /publications/
 
   - title: "Projects and Leadership"
-    url: /projects-and-leadership/    
+    url: /projects/    
 
   - title: "Scholarships and Awards"
-    url: /scholarships-and-awards/
+    url: /awards/
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+#  - title: "CV"
+#    url: /cv/
     
 #  - title: "Guide"
 #    url: /markdown/
