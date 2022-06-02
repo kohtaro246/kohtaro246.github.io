@@ -15,3 +15,6 @@ I am a first-year master's student in the Vision and Language group at [Machine 
 My fields of interest are machine learning in the field of multimodal humor understanding and computer vision for autonomous vehicles. I am passionate about cross-disciplinary machine learning applications that empowers or enhances the ability of humans. My works range from humor understanding and generation which would enable effective cooperation between humans and robots, to autonomous driving which would enable people without access to safe public transportation to move around easily and safely.
 
 
+News
+======
+- 2022.5: I was accepted as a course student of [International Graduate Program of Innovation for Intelligent World](https://www.iiw.i.u-tokyo.ac.jp/en/)
