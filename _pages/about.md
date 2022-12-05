@@ -17,4 +17,7 @@ My fields of interest are machine learning in the field of multimodal humor unde
 
 News
 ======
+- 2022.11: My presentation at GCLS Presentation Competition won the Corpy&Co. Award. [Competition Link](https://gcls.jp/event/competition2022/)
+- 2022.10: Our paper "Learning to Evaluate Humor in Memes Based on the Incongruity Theory" was accepted to "When creative AI meets conversational AI" a workshop at COLING2022. [Paper](https://aclanthology.org/2022.cai-1.9.pdf)
+- 2022.9: I started an internship at [Woven Planet Holdings, inc.](https://www.woven-planet.global/en)
 - 2022.5: I was accepted as a course student of [International Graduate Program of Innovation for Intelligent World](https://www.iiw.i.u-tokyo.ac.jp/en/)
