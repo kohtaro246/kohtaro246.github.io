@@ -10,6 +10,7 @@ citation: 'Learning to Evaluate Humor in Memes Based on the Incongruity Theory (
 ---
 
 <a href='https://aclanthology.org/2022.cai-1.9.pdf'>Download paper here</a>
+<a href='https://kohtaro246.github.io/files/refined_dataset_with_url.csv)'>Download partial dataset from here. For full dataset access, please contact me via email</a> 
 
 This paper introduces a new dataset of memes with consistent humor annotations, and a new method of multimodal humor evaluation taking insight from the incongruity theory
 
