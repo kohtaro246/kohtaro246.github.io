@@ -3,7 +3,7 @@ title: "Content-Specific Humorous Image Captioning Using Incongruity Resolution 
 collection: publications
 permalink: /publication/Content-Specific Humorous Image Captioning Using Incongruity Resolution Chain-of-Thought
 excerpt: 'TBA'
-date: 2024-06
+date: 2024-06-15
 venue: 'NAACL 2024 Findings'
 paperurl: 'TBA'
 citation: 'TBA'
